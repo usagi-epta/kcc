@@ -42,7 +42,8 @@ KCC's main goal is maximum image quality at significantly smaller file size. For
 4) can [semi-automatically detect 2-page spreads](https://www.youtube.com/watch?v=kfIX67f7Aqk) from pre-split single pages.
    You can view combined spreads either before or after the split halves.
 
-![spreads](spreads.jpeg)
+![half](half.jpeg)
+![full](full.jpeg)
 
 Just drop your input files into the KCC window, hit convert, and USB drop the output files onto your device's `documents` folder!
 
